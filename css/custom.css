@@ -1,0 +1,13 @@
+.headerpad
+{
+    padding-top: 80px !important;
+}
+.justify
+{
+    text-align: justify;
+    text-justify: inter-word;
+}
+.textuppercase
+{
+    text-transform: uppercase;
+}
